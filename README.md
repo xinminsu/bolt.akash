@@ -108,6 +108,7 @@ defaults write com.apple.finder AppleShowAllFiles YES
 
 # For akash:
 OPENAI_LIKE_API_BASE_URL=https://chatapi.akash.network/api/v1
+
 OPENAI_LIKE_API_KEY=sk-xxxxxxxxxxxxxxxxxxx
 
 Get your GROQ API Key here: https://console.groq.com/keys
