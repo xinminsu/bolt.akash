@@ -106,7 +106,7 @@ defaults write com.apple.finder AppleShowAllFiles YES
 
 **NOTE**: you only have to set the ones you want to use and Ollama doesn't need an API key because it runs locally on your computer:
 
-For akash:
+# For akash:
 OPENAI_LIKE_API_BASE_URL=https://chatapi.akash.network/api/v1
 OPENAI_LIKE_API_KEY=sk-xxxxxxxxxxxxxxxxxxx
 
